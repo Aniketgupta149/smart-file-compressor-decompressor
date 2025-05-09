@@ -22,47 +22,48 @@ An intuitive web-based tool for compressing and decompressing text files using *
 ```bash
 git clone https://github.com/Aniketgupta149/smart-file-compressor.git
 cd smart-file-compressor
-2. Open the App
-Just open index.html in your browser. No build steps or server setup required!
+```
 
-📂 File Structure
-graphql
-Copy
-Edit
+### 2. Open the App
+
+Just open `index.html` in your browser. No build steps or server setup required!
+
+---
+
+## 📂 File Structure
+
+```
 index.html       # All HTML, CSS, and JavaScript in one file
 Picture1.png     # UI preview (if available)
-⚙️ Tech Used
-HTML5
-
-CSS3 (custom + responsive styles)
-
-JavaScript (vanilla)
-
-Huffman Encoding algorithm
-
-📸 Social Preview
-Add Picture1.png or a generated banner to .github/ folder as social-preview.png to customize the GitHub preview image.
-
-📄 License
-This project is licensed under the MIT License.
-
-👨‍💻 Author
-Aniket Harishchandra Gupta
-📧 ag1499459@gmail.com
-🔗 Portfolio
-💼 LinkedIn
-💻 GitHub
-
-yaml
-Copy
-Edit
+```
 
 ---
 
-### 🏷️ GitHub Repository Description (for repo homepage)
+## ⚙️ Tech Used
 
-> 🔄 A web-based tool for compressing and decompressing text files using Huffman Encoding. Built with HTML, CSS, and JavaScript. Fully client-side.
+- HTML5
+- CSS3 (custom + responsive styles)
+- JavaScript (vanilla)
+- Huffman Encoding algorithm
 
 ---
 
-Would you like me to bundle the `README.md` and a `LICENSE` file into a zip for you?
+## 📸 Social Preview
+
+Add `Picture1.png` or a generated banner to `.github/` folder as `social-preview.png` to customize the GitHub preview image.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Aniket Harishchandra Gupta**  
+📧 [ag1499459@gmail.com](mailto:ag1499459@gmail.com)  
+🔗 [Portfolio](https://aniket-portfolio149.web.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/aniket-gupta-b44611261)  
+💻 [GitHub](https://github.com/Aniketgupta149)
