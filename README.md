@@ -2,8 +2,6 @@
 
 An intuitive web-based tool for compressing and decompressing text files using **Huffman Encoding**. This project features a modern UI with responsive design and is built entirely with **HTML**, **CSS**, and **JavaScript** — no backend required.
 
-🌐 **Live Preview (Optional):** *[Add your deployment link here]*
-
 ---
 
 ## 🧩 Features
@@ -20,8 +18,8 @@ An intuitive web-based tool for compressing and decompressing text files using *
 ### 1. Download or Clone the Repository
 
 ```bash
-git clone https://github.com/Aniketgupta149/smart-file-compressor.git
-cd smart-file-compressor
+git clone https://github.com/Aniketgupta149/smart-file-compressor-decompressor.git
+cd smart-file-compressor-decompressor
 ```
 
 ### 2. Open the App
